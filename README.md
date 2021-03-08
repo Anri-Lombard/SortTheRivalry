@@ -1,2 +1,2 @@
 # SortTheRivalry
-A simple view app to end all rivalries
+A simple vue.js app to end all rivalries
